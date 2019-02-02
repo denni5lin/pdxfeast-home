@@ -53,8 +53,22 @@ body {
   transition: background 800ms;
 }
 
-.social-icons {
-  font-size: 1.5rem;
+.social-icons a {
+  color: #0b4c5f;
+  font-size: 2rem;
+}
+
+.footer-copyright {
+  color: #0b4c5f;
+}
+
+.footer-copyright a {
+  color: #04b4ae;
+}
+
+.footer-copyright a:hover {
+  color: #0b4c5f;
+  text-decoration: none;
 }
 
 @media (max-width: 1200px) {
